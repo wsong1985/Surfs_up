@@ -6,7 +6,7 @@
 
 ## **Results**
 
-- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for the month of June. Stored in DataFrame and generated the summary statistics.**
+- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for June. Stored in DataFrame and generated the summary statistics.**
 
   <table>
   <tr>
@@ -17,7 +17,7 @@
   </tr>
   </table>
   
-- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for the month of December. Stored in DataFrame and generated the summary statistics.**
+- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for December. Stored in DataFrame and generated the summary statistics.**
   
   <table>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
   </table>
   
-- **Calculated the difference of Min temperature, the difference of Max temperature, and the difference of average temperature between June and December.**
+- **Calculated the Diff_Min, Diff_Max, and Diff_Mean between June and December.**
   
   <table>
   <tr>
@@ -41,9 +41,9 @@
   
 ## **Summary**
 
-- **Upon comparing the Min, Max and Average temperature of June and December, we see no significant changes in temperature. This means that W. Avy's surf and ice cream is potentially sustainable year-round.**
+- **Upon comparing the Min, Max, and Average temperatures of June and December, we see no significant changes in temperature. This means that W. Avy's surf and ice cream is potentially sustainable year-round.**
   
-- **To provide a further understanding of the temperature in June, we conducted a data count to show how often the temperature is above the average during the month of June. We can see that 966 out 0f 1517 records exceeded the average temperature.**
+- **To further understand the temperature in June, we conducted a data count to show how often the temperature is above the average during the month of June. We can see that 966 out 0f 1517 records exceeded the average temperature.**
   
   <table>
   <tr>
@@ -54,7 +54,7 @@
   </tr>
   </table>
 
-- **To provide an insight of how the precipitation effects the business in December, we conducted a study of total precipitation in the month of December.**
+- **To provide an insight into how the precipitation affected the business in December, we studied the total precipitation throughout the month.**
   
   <table>
   <tr>
