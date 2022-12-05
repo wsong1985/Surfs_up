@@ -6,25 +6,25 @@
 
 ## **Results**
 
-- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for June. Stored in DataFrame and generated the summary statistics.**
+- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for June. Stored in DataFrame and generated a summary statistics.**
 
   <table>
   <tr>
     <td>Summary Statistics of June</td>
   </tr>
   <tr>
-    <td><img src="PNG/temp_stat_june.PNG" width=300></td>
+    <td><img src="PNG/temp_stat_june.PNG" width=200></td>
   </tr>
   </table>
   
-- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for December. Stored in DataFrame and generated the summary statistics.**
+- **Filtered the date column of the Measurements table in the database to retrieve all the temperatures for December. Stored in DataFrame and generated a summary statistics.**
   
   <table>
   <tr>
     <td>Summary Statistics of December</td>
   </tr>
   <tr>
-    <td><img src="PNG/temp_stat_dec.PNG" width=300></td>
+    <td><img src="PNG/temp_stat_dec.PNG" width=200></td>
   </tr>
   </table>
   
