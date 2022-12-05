@@ -13,7 +13,7 @@
     <td>Summary Statistics of June</td>
   </tr>
   <tr>
-    <td><img src="PNG/temp_stat_june.PNG" width=400></td>
+    <td><img src="PNG/temp_stat_june.PNG" width=300></td>
   </tr>
   </table>
   
@@ -24,7 +24,7 @@
     <td>Summary Statistics of December</td>
   </tr>
   <tr>
-    <td><img src="PNG/temp_stat_dec.PNG" width=400></td>
+    <td><img src="PNG/temp_stat_dec.PNG" width=300></td>
   </tr>
   </table>
   
